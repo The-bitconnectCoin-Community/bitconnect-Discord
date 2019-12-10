@@ -21,31 +21,25 @@ The bCC Discord Server is thus far the main hub of information, FAQs, community 
 ---
 
 
-**Discord Social Related QuickLinks**
+**Discord App Related QuickLinks**
+
+[Discord GitHub](https://github.com/discordapp)
 
 [Discord Website](https://discordapp.com)
+
+[Discord For Windows, Mac, Android, iOS & Linux](https://discordapp.com/download)
+
+
+---
+
+
+**Discord Social Related QuickLinks**
 
 [Discord Twitter](https://twitter.com/discordapp)
 
 [Discord Facebook](https://www.facebook.com/discordapp/)
 
 [Discord Instagram](https://www.instagram.com/discordapp)
-
-
----
-
-
-**Discord App Related QuickLinks**
-
-[Discord GitHub](https://github.com/discordapp)
-
-[Discord Desktop](https://discordapp.com/download)
-
-[Discord Web](https://discordapp.com/channels/@me)
-
-[Discord Android](https://play.google.com/store/apps/details?id=com.discord)
-
-[Discord iOS](https://apps.apple.com/gb/app/discord/id985746746)
 
 
 ---
