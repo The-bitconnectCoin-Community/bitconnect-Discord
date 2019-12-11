@@ -40,17 +40,17 @@ The bCC Discord Server is thus far the main hub of information, FAQs, community 
 
 [Discord GitHub](https://github.com/discordapp)
 
-[Discord Official API](https://github.com/discordapp/discord-api-docs)
+[Discord Official API GitHub](https://github.com/discordapp/discord-api-docs)
 
-[Discord Go API / Discord GoLang API](https://github.com/bwmarrin/discordgo)
+[Discord Go API GitHub / Discord GoLang API GitHub](https://github.com/bwmarrin/discordgo)
 
-[Discord Python API](https://github.com/Rapptz/discord.py)
+[Discord Python API GitHub](https://github.com/Rapptz/discord.py)
 
-[Discord Java API](https://github.com/DV8FromTheWorld/JDA)
+[Discord Java API GitHub](https://github.com/DV8FromTheWorld/JDA)
 
-[Discord .Net API](https://github.com/discord-net/Discord.Net)
+[Discord .Net API GitHub](https://github.com/discord-net/Discord.Net)
 
-[Discord REST API](https://github.com/restcord/restcord)
+[Discord REST API GitHub](https://github.com/restcord/restcord)
 
 
 ---
