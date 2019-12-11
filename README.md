@@ -1,9 +1,9 @@
 **The bitconnectCoin Community / The bCC Discord Server Information**
 
 
-This bitconnect community, ["The bitconnectCoin Community" / "The bCC"](https://ThebCC.app "The bCC"), started on the Discord application in the Summer / Autumn of 2018. With the aim of being a Tier 1 [Proof Of Stake Mining](https://bitcointalk.org/index.php?topic=27787.0 "Proof Of Stake Mining") blockchain community, built around the original [BCC / BitConnect Coin / bitconnectCoin blockchain](https://chainz.cryptoid.info/bcc/ "BCC BlockChain"), various social media platforms and [associated projects](https://github.com/ThebCC/bitconnect-Connected "Projects Connected To BCC Or BCCX").
+This bitconnect community, ["The bitconnectCoin Community" / "The bCC"](https://ThebCC.app "The bitconnectCoin Community"), started on the Discord application in the Summer / Autumn of 2018. With the aim of being a Tier 1 [Proof Of Stake Mining](https://bitcointalk.org/index.php?topic=27787.0 "Proof Of Stake Mining") blockchain community, built around the original [BCC / BitConnect Coin / bitconnectCoin blockchain](https://chainz.cryptoid.info/bcc/ "BCC BlockChain"), various social media platforms and [associated projects](https://github.com/ThebCC/bitconnect-Connected "Projects Connected To BCC / BCCX").
 
-[The bCC Discord Server](https://discord.gg/JxMNabw "The bCC Discord Server") is thus far the main hub of information, FAQs, community content and social interaction for **this** [BCC](https://chainz.cryptoid.info/bcc/ "BCC BlockChain") & [BCCX](https://chainz.cryptoid.info/bccx/ "BCCX BlockChain") blockchain community. Hopefully moving forward, a fun hub of development for [bitconnectCoin.info](https://github.com/bitconnectCoinInfo "bitconnectCoin.info GitHub"), [bitconnectCore](https://github.com/bitconnectCore "bitconnectCore GitHub") and [bitconnectXcore](https://github.com/bitconnectXcore "bitconnectXcore GitHub") etc, including helping other [bitconnect](https://github.com/bitconnectcoin/bitconnectcoin "bitconnect GitHub") & [bitconnectX](https://github.com/bitconnectcoin/bitconnectx "bitconnectX GitHub") blockchain fans and developers to do the same as [The bCC](https://discord.gg/JxMNabw "The bCC Discord Server") and [associated projects](https://github.com/ThebCC/bitconnect-Connected "Projects Connected To BCC Or BCCX").
+[The bCC Discord Server](https://discord.gg/JxMNabw "The bCC Discord Server") thus far is the main hub of information, FAQs, community content and social interaction for **this** [BCC](https://chainz.cryptoid.info/bcc/ "BCC BlockChain") & [BCCX](https://chainz.cryptoid.info/bccx/ "BCCX BlockChain") blockchain community. Hopefully moving forward, a fun hub of developments for [bitconnectCoin.info](https://github.com/bitconnectCoinInfo "bitconnectCoin.info GitHub"), [bitconnectCore](https://github.com/bitconnectCore "bitconnectCore GitHub") and [bitconnectXcore](https://github.com/bitconnectXcore "bitconnectXcore GitHub") etc, including helping other [bitconnect](https://github.com/bitconnectcoin/bitconnectcoin "bitconnect GitHub") & [bitconnectX](https://github.com/bitconnectcoin/bitconnectx "bitconnectX GitHub") blockchain fans and developers to do the same as [The bCC Discord Server](https://discord.gg/JxMNabw "The bCC Discord Server") and [associated projects](https://github.com/ThebCC/bitconnect-Connected "Projects Connected To BCC / BCCX").
 
 
 ---
@@ -31,12 +31,17 @@ This bitconnect community, ["The bitconnectCoin Community" / "The bCC"](https://
 
 [Discord Help Center](https://support.discordapp.com/hc/en-us "Discord Help Center")
 
+[Discord Community Guidelines](https://discordapp.com/guidelines "Discord Community Guidelines")
+
+
 ---
 
 
 **Discord Developer Related QuickLinks**
 
 [Discord Developer Portal](https://discordapp.com/developers/docs/intro "Discord Developer Portal")
+
+[Discord Open Source](https://discordapp.com/open-source "Discord Open Source")
 
 [Discord GitHub](https://github.com/discordapp "Discord GitHub")
 
@@ -47,6 +52,8 @@ This bitconnect community, ["The bitconnectCoin Community" / "The bCC"](https://
 [Discord Python API GitHub](https://github.com/Rapptz/discord.py "Discord Python API GitHub")
 
 [Discord Java API GitHub](https://github.com/DV8FromTheWorld/JDA "Discord Java API GitHub")
+
+[Discord C# API GitHub](https://github.com/DSharpPlus/DSharpPlus/ "Discord C# API GitHub")
 
 [Discord .Net API GitHub](https://github.com/discord-net/Discord.Net "Discord Java API GitHub")
 
