@@ -49,7 +49,15 @@
 
 **Discord Robot Template Ideas**
 
-[Cryptocurrency-crypto-bot](https://github.com/crypto-node/Cryptocurrency-crypto-bot "Cryptocurrency-crypto-bot")
+[Cryptocurrency Crypto Bot](https://github.com/crypto-node/Cryptocurrency-crypto-bot "Cryptocurrency-crypto-bot")
+
+
+---
+
+
+**Discord App Template Ideas**
+
+[Better Discord](https://github.com/rauenzi/BetterDiscordApp "BetterDiscordApp")
 
 
 ---
