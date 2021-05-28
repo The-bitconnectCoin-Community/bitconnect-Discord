@@ -47,6 +47,14 @@
 ---
 
 
+**Discord Robot Template Ideas**
+
+[Cryptocurrency-crypto-bot](https://github.com/crypto-node/Cryptocurrency-crypto-bot "Cryptocurrency-crypto-bot")
+
+
+---
+
+
 **Discord Social Related QuickLinks**
 
 [Discord Twitter](https://twitter.com/discordapp "Discord Twitter")
